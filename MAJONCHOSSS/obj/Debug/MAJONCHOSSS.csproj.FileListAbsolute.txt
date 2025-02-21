@@ -1,0 +1,10 @@
+C:\Users\MINEDUCYT\Desktop\profe arci A1\MAJONCHOSSS\bin\Debug\MAJONCHOSSS.exe.config
+C:\Users\MINEDUCYT\Desktop\profe arci A1\MAJONCHOSSS\bin\Debug\MAJONCHOSSS.exe
+C:\Users\MINEDUCYT\Desktop\profe arci A1\MAJONCHOSSS\bin\Debug\MAJONCHOSSS.pdb
+C:\Users\MINEDUCYT\Desktop\profe arci A1\MAJONCHOSSS\obj\Debug\MAJONCHOSSS.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\profe arci A1\MAJONCHOSSS\obj\Debug\MAJONCHOSSS.Form1.resources
+C:\Users\MINEDUCYT\Desktop\profe arci A1\MAJONCHOSSS\obj\Debug\MAJONCHOSSS.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\profe arci A1\MAJONCHOSSS\obj\Debug\MAJONCHOSSS.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\profe arci A1\MAJONCHOSSS\obj\Debug\MAJONCHOSSS.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\profe arci A1\MAJONCHOSSS\obj\Debug\MAJONCHOSSS.exe
+C:\Users\MINEDUCYT\Desktop\profe arci A1\MAJONCHOSSS\obj\Debug\MAJONCHOSSS.pdb
