@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\Desktop\profe arci A1\ejercicio1.1carro_6932077\obj\Debug\ejercicio1.1carro_6932077.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\profe arci A1\ejercicio1.1carro_6932077\obj\Debug\ejercicio1.1carro_6932077.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\profe arci A1\ejercicio1.1carro_6932077\bin\Debug\ejercicio1.1carro_6932077.exe.config
+C:\Users\MINEDUCYT\Desktop\profe arci A1\ejercicio1.1carro_6932077\bin\Debug\ejercicio1.1carro_6932077.exe
+C:\Users\MINEDUCYT\Desktop\profe arci A1\ejercicio1.1carro_6932077\bin\Debug\ejercicio1.1carro_6932077.pdb
+C:\Users\MINEDUCYT\Desktop\profe arci A1\ejercicio1.1carro_6932077\obj\Debug\ejercicio1.1carro_6932077.exe
+C:\Users\MINEDUCYT\Desktop\profe arci A1\ejercicio1.1carro_6932077\obj\Debug\ejercicio1.1carro_6932077.pdb
