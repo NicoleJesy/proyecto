@@ -1,0 +1,4 @@
+C:\Users\MINEDUCYT\source\repos\proyectoEVALUACION2jessicahernandez\obj\Debug\proyectoEVALUACION2jessicahernandez.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\proyectoEVALUACION2jessicahernandez\obj\Debug\proyectoEVALUACION2jessicahernandez.Properties.Resources.resources
+C:\Users\MINEDUCYT\source\repos\proyectoEVALUACION2jessicahernandez\obj\Debug\proyectoEVALUACION2jessicahernandez.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\source\repos\proyectoEVALUACION2jessicahernandez\obj\Debug\proyectoEVALUACION2jessicahernandez.csproj.CoreCompileInputs.cache
